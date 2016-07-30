@@ -1,0 +1,392 @@
+/*!
+ * Kokothemes v1.0 (http://kokothemes.com)
+ * Copyright 2016 KOKOTHEMES.COM
+ * Author - Santanu Samanta
+ * Follow me on facebook - https://facebook.com/iamsantanusamanta
+ */
+/*! kokothemes.css | kokothemes.com */
+
+/* overflow*/
+html {
+	overflow-x: hidden;
+}
+/* Hero Background One */
+.hero-background-one {
+  background: url(../img/desk-hero.jpg) no-repeat center center;
+  width: 100%;
+  height: auto;
+  padding-bottom: 200px;
+  margin-bottom: 0px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+.brand-text {
+  padding: 250px 20px 5px 20px;
+  font-size: 106px;
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.brand-text-footer {
+  padding: 5px;
+  font-size: 66px;
+  line-height: 75px;
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.background-lymka-1 {
+  background-color: #c3da41;
+}
+.background-lymka-2 {
+  background-color: #1c5a8d; 
+}
+.background-lymka-3 {
+  background-color: #592673;
+}
+.background-lymka-4 {
+  background-color: #26c6da;
+  padding-top: 40px;
+}
+.background-lymka-5 {
+  background-color: #6dc82a;
+}
+.background-lymka-6 {
+  background-color: #222;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.background-lymka-7 {
+  background-color: #111;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.background-lymka-8 {
+  background-color: #f6f7f9;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.text-type-1 {
+  font-weight: 300; 
+  font-size: 1.35em; 
+  padding: 70px 10px 20px 10px; 
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+}
+.text-type-2 {
+  font-weight: 300; 
+  font-size: 2em; 
+  padding: 50px 20px 10px 20px; 
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+.text-type-3 {
+  font-weight: 300; 
+  font-size: 3.5em; 
+  padding: 15px 20px 10px 20px; 
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+.activestyle {
+  margin-top: 80px;
+  margin-bottom: 45px;
+  padding: 15px;
+  border: 1px solid #6dc82a;
+  display: inline-block;
+  text-align: center;
+  -webkit-box-shadow: 8px 8px 0px -3px;
+  -moz-box-shadow: 8px 8px 0px -3px;
+  box-shadow: 8px 8px 0px -3px;
+  font-size: 1.75em;
+  color: #60B520;
+  letter-spacing: 1px;
+}
+.activestyle-black {
+  color: #43474a;
+  border: 1px solid #43474a;
+}
+.activestyle-red {
+  color: #d3394c;
+  border: 1px solid #d3394c;
+}
+.greenstyle {
+  padding: 5px 0px 15px 0px;
+  text-align: center;
+  list-style: none;
+}
+.greenstyle li {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin: 1px;
+  text-indent: -999px;
+  background-color: #60B520;
+  border: 1px solid #60B520;
+  border-radius: 10px;
+}
+.redstyle {
+  padding: 5px 0px 15px 0px;
+  text-align: center;
+  list-style: none;
+}
+.redstyle li {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin: 1px;
+  text-indent: -999px;
+  background-color: #d3394c;
+  border: 1px solid #d3394c;
+  border-radius: 10px;
+}
+.blackstyle {
+  padding: 5px 0px 15px 0px;
+  text-align: center;
+  list-style: none;
+}
+.blackstyle li {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin: 1px;
+  text-indent: -999px;
+  background-color: #43474a;
+  border: 1px solid #43474a;
+  border-radius: 10px;
+}
+.whitestyle {
+  padding: 5px 0px 15px 0px;
+  text-align: center;
+  list-style: none;
+}
+.whitestyle li {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin: 1px;
+  text-indent: -999px;
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+}
+.epadding {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+.epadding-2 {
+  padding-bottom: 25px;
+}
+.epadding-3 {
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+.icon-text {
+  padding-top: 35px;
+  padding-bottom: 15px;
+  color: #777;
+  font-size: 1.1em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.icon-text-2 {
+  padding-top: 5px;
+  padding-bottom: 15px;
+  color: #555;
+  font-size: 1.15em;
+  letter-spacing: 1px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+.summary-text {
+  color: #ffffff; 
+  font-weight: 300; 
+  font-size: 1.75em;  
+  padding: 105px 35px 25px 35px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+}
+/* Manta special button */
+.mantabtn {
+  display: inline-block;
+  padding: 14px 16px;
+  font-size: 1.25em;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  white-space: nowrap;
+  /* vertical-align: middle; */
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 2px solid transparent;
+  border-radius: 0px;
+}
+.mantabtn-default {
+  color: #ffffff;
+  background-color: transparent;
+  border-color: #ffffff;
+  border-radius: 2px;
+}
+a {
+  outline: none;
+}
+a.mantabtn-default:hover,
+a.mantabtn-default:focus {
+  text-decoration: none;
+  outline: none;
+  color: #1c5a8d;
+  background: #ffffff;
+}
+.mantabtn-default-fixed {
+  color: #1c5a8d;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  border-radius: 2px;
+}
+a.mantabtn-default-fixed:hover,
+a.mantabtn-default-fixed:focus {
+  text-decoration: none;
+  outline: none;
+  color: #1c5a8d;
+  background: #ffffff;
+}
+.mantabtn-default-vio {
+  color: #592673;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  border-radius: 0px;
+}
+a.mantabtn-default-vio:hover,
+a.mantabtn-default-vio:focus {
+  text-decoration: none;
+  outline: none;
+  color: #592673;
+  background: #ffffff;
+}
+.mantabtn-default-grn {
+  color: #ffffff;
+  background-color: transparent;
+  border-color: #ffffff;
+  border-radius: 2px;
+}
+a.mantabtn-default-grn:hover,
+a.mantabtn-default-grn:focus {
+  text-decoration: none;
+  outline: none;
+  color: #6dc82a;
+  background: #ffffff;
+}
+.mantabtn-default-grn-fixed {
+  color: #6dc82a;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  border-radius: 2px;
+}
+a.mantabtn-default-grn-fixed:hover,
+a.mantabtn-default-grn-fixed:focus {
+  text-decoration: none;
+  outline: none;
+  color: #6dc82a;
+  background: #ffffff;
+}
+.btn-position {
+  margin: 25px;
+  text-align: center;
+}
+.app-text {
+  font-weight: 300; 
+  font-size: 1.5em;
+  letter-spacing: 0.25px;
+  color: #565A5C; 
+  padding: 125px 30px 25px 30px;
+  font-family: "Roboto", sans-serif;
+}
+.app-text-2 {
+  font-size: 2.8em; 
+  color: #777;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+.epadding-4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+/*Beautify web*/
+.koko-text {
+  padding: 60px 20px 5px 20px;
+  font-size: 86px;
+  color: #555;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.beautify-text {
+  padding: 25px 20px 75px 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #555;
+  font-size: 26px;
+  letter-spacing: 0.5px;
+}
+/* Footer */
+.footer-text-link {
+  font-size: 12px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  color: #ffffff;
+  text-decoration: none;
+  outline: none;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+a.footer-text-link:hover,
+a.footer-text-link:focus {
+  color: #ffffff;
+}
+.footer-base-padding {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.footer-padding-adjust {
+  padding: 30px 20px 5px 20px;
+}
+.text-type-4 {
+  font-weight: 300; 
+  font-size: 1.15em; 
+  padding: 0px 10px 10px 10px; 
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+}
+.text-type-5 {
+  font-weight: 700; 
+  font-size: 1.9em; 
+  padding: 0px 10px 5px 10px; 
+  color: #fff;
+  letter-spacing: 1.25px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.copyright {
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #ffffff;
+  padding: 10px;
+  letter-spacing: 0.5px;
+}
